@@ -1,0 +1,15 @@
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\bin\Debug\net10.0\CalculatorDotnet.exe
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\bin\Debug\net10.0\CalculatorDotnet.deps.json
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\bin\Debug\net10.0\CalculatorDotnet.runtimeconfig.json
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\bin\Debug\net10.0\CalculatorDotnet.dll
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\bin\Debug\net10.0\CalculatorDotnet.pdb
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\CalculatorDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\CalculatorDotnet.AssemblyInfoInputs.cache
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\CalculatorDotnet.AssemblyInfo.cs
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\CalculatorDotnet.csproj.CoreCompileInputs.cache
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\CalculatorDotnet.sourcelink.json
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\CalculatorDotnet.dll
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\refint\CalculatorDotnet.dll
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\CalculatorDotnet.pdb
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\CalculatorDotnet.genruntimeconfig.cache
+C:\Users\mamal\OneDrive\Desktop\Demo\Demo-Project\CalculatorDotnet\obj\Debug\net10.0\ref\CalculatorDotnet.dll
